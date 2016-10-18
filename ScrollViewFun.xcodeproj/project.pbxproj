@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					7DDC7AA81D24BDBF00F43109 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = XF4Q7TX247;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -252,6 +253,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF4Q7TX247;
 				INFOPLIST_FILE = ScrollViewFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Gamesmith.Swift.ScrollViewFun;
@@ -264,6 +266,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF4Q7TX247;
 				INFOPLIST_FILE = ScrollViewFun/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Gamesmith.Swift.ScrollViewFun;
